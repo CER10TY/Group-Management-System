@@ -1,0 +1,8 @@
+C:\Users\Sören\Documents\Visual Studio 2015\Projects\Group Management System\GMSTest\bin\Debug\GMSTest.dll
+C:\Users\Sören\Documents\Visual Studio 2015\Projects\Group Management System\GMSTest\bin\Debug\GMSTest.pdb
+C:\Users\Sören\Documents\Visual Studio 2015\Projects\Group Management System\GMSTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Sören\Documents\Visual Studio 2015\Projects\Group Management System\GMSTest\obj\Debug\GMSTest.csprojResolveAssemblyReference.cache
+C:\Users\Sören\Documents\Visual Studio 2015\Projects\Group Management System\GMSTest\obj\Debug\GMSTest.dll
+C:\Users\Sören\Documents\Visual Studio 2015\Projects\Group Management System\GMSTest\obj\Debug\GMSTest.pdb
+C:\Users\Sören\Documents\Visual Studio 2015\Projects\Group Management System\GMSTest\bin\Debug\Group Management System.dll
+C:\Users\Sören\Documents\Visual Studio 2015\Projects\Group Management System\GMSTest\bin\Debug\Group Management System.pdb

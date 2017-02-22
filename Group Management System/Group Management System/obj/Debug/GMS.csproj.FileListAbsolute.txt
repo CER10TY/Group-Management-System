@@ -1,0 +1,5 @@
+C:\Users\Sören\Documents\Visual Studio 2015\Projects\Group Management System\Group Management System\bin\Debug\Group Management System.dll
+C:\Users\Sören\Documents\Visual Studio 2015\Projects\Group Management System\Group Management System\bin\Debug\Group Management System.pdb
+C:\Users\Sören\Documents\Visual Studio 2015\Projects\Group Management System\Group Management System\obj\Debug\Group Management System.dll
+C:\Users\Sören\Documents\Visual Studio 2015\Projects\Group Management System\Group Management System\obj\Debug\Group Management System.pdb
+C:\Users\Sören\Documents\Visual Studio 2015\Projects\Group Management System\Group Management System\obj\Debug\GMS.csprojResolveAssemblyReference.cache
